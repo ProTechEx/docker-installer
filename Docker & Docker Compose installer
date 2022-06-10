@@ -1,0 +1,21 @@
+Docker & Docker Compose installer:
+**********************************
+
+
+
+Install/Update docker online
+****************************
+source <(curl -sL https://docker-install.netlify.app/install.sh)
+
+Install docker by official shell(get.docker.com)
+************************************************
+source <(curl -sL https://docker-install.netlify.app/install.sh) -s
+
+
+Docker Compose
+***************
+https://github.com/ProTechEx/flussonic-repack/blob/main/install-latest-compose.sh
+
+or 
+
+pip install docker-compose
