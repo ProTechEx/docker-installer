@@ -14,7 +14,7 @@ source <(curl -sL https://docker-install.netlify.app/install.sh) -s
 
 Docker Compose
 ***************
-https://github.com/ProTechEx/flussonic-repack/blob/main/install-latest-compose.sh
+wget https://github.com/ProTechEx/flussonic-repack/blob/main/install-latest-compose.sh && chmod 777 install-latest-compose.sh && bash install-latest-compose.sh
 
 or 
 
